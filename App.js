@@ -50,7 +50,7 @@ export default function App() {
       <Image source={{uri:otto}} style={[styles.child, {backgroundColor: '#eaeaea'} ]}/>
       <Image source={{uri:panda}} style={[styles.child, {backgroundColor: 'yellow'}]}/>
       <Image source={{uri:sleep}} style={[styles.child, {backgroundColor: 'pink'} ]}/>
-      <Image source={{uri:soccer}} style={[styles.child, {backgroundColor: '#eaeaea'} ]}/>
+      <Image source={{uri:soccer}} style={[styles.child, {backgroundColor: 'black'} ]}/>
     </View>
   );
 }
